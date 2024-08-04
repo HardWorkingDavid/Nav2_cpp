@@ -1,0 +1,5 @@
+<library path="nav2_mpc_controller">
+	<class name="nav2_mpc_controller/MpcController" type="nav2_mpc_controller::MpcController" base_class_type="nav2_core::Controller">
+	  <description>This is a MPC Controller plugin.</description>
+	</class>
+</library>

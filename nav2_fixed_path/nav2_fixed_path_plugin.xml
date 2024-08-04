@@ -1,0 +1,5 @@
+<library path="nav2_fixed_path_plugin">
+	<class name="nav2_fixed_path/FixedPath" type="nav2_fixed_path::FixedPath" base_class_type="nav2_core::GlobalPlanner">
+	  <description>This is an example plugin which produces fixed path.</description>
+	</class>
+</library>

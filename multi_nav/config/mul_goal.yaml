@@ -1,0 +1,13 @@
+goals:
+  - x: 0.5438517928123474
+    y: -0.5777881145477295
+    yaw: 0.0
+    use_collision_detection: false
+  - x: 0.5920209288597107
+    y: 1.5509294271469116
+    yaw: 0.0
+    use_collision_detection: true
+  - x: -0.496417760848999
+    y: 1.762841820716858
+    yaw: 0.0
+    use_collision_detection: false
